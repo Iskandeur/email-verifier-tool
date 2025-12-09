@@ -1,4 +1,4 @@
-# Destructora de mundos
+# Email Question Mark
 
 This is a command-line Python tool to check if email addresses from a file exist by querying their respective mail servers.
 
